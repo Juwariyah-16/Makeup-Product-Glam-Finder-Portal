@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Matte Foundation",
+        "brand": "Maybelline",
+        "category": "Foundation",
+        "skin_type": "Oily",
+        "price": 2500
+    },
+    {
+        "id": 2,
+        "name": "Fit Me Concealer",
+        "brand": "Maybelline",
+        "category": "Concealer",
+        "skin_type": "All",
+        "price": 1800
+    },
+    {
+        "id": 3,
+        "name": "Soft Blush",
+        "brand": "Miss Rose",
+        "category": "Blush",
+        "skin_type": "All",
+        "price": 1200
+    },
+    {
+        "id": 4,
+        "name": "Lip Gloss",
+        "brand": "NYX",
+        "category": "Lipstick",
+        "skin_type": "All",
+        "price": 2200
+    },
+    {
+        "id": 5,
+        "name": "Compact Powder",
+        "brand": "Rivaj",
+        "category": "Powder",
+        "skin_type": "Oily",
+        "price": 900
+    },
+    {
+        "id": 6,
+        "name": "Primer",
+        "brand": "NYX",
+        "category": "Primer",
+        "skin_type": "Dry",
+        "price": 2000.0
+    }
+]
