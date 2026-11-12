@@ -56,7 +56,7 @@ Password: `1234`
 Glam Finder demonstrates the use of basic Python programming concepts to develop a functional product management and search portal.
 
 ## 9. Contributors
-- Juwariyah Azeem
-- [Second Group Member's Name]
+- Juwariyah Azeem (25l-5038)
+- Khadeeja Amjad (25l-5128)
 
-**Project:** Assignment 3 – End-to-End Portal Design
+
